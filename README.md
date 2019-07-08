@@ -1,8 +1,7 @@
 jQuery Drag and Drop TODO List with PHP MySQL
 
 
-## Code Example......
-
+## Code Example
 ```
 
 $result           = mysqli_query($conn, $sqlIncomplete);
